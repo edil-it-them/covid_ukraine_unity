@@ -1,0 +1,13 @@
+[ 66/617    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
+[ 70/617    0s] CopyTool ../../Builds/tiny3d-wasm/Data/catalog.bin
+[ 80/617    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
+[ 87/617    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
+[ 97/617    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.0.entities
+[180/617    0s] ILPostProcessorRunner artifacts/Tiny3D/tiny3d-wasm/post_ilprocessing/Unity.LowLevel.dll (+pdb)
+[181/617    2s] TypeRegGen artifacts/Tiny3D/tiny3d-wasm/post_typereg/Tiny3D.dll (+64 others)
+[182/617    4s] Download and unpack artifacts/Stevedore-ExternalUnpack/artifacts_Stevedore_node-win-x64 (+1 other)
+[184/617    5s] Download and unpack artifacts/Stevedore-ExternalUnpack/artifacts_Stevedore_emscripten-win (+1 other)
+[486/617    5s] UnityLinker artifacts/Tiny3D/tiny3d-wasm_stripped/Tiny3D.dll (+64 others)
+[BUSY       6s] Il2Cpp artifacts/Tiny3D/tiny3d-wasm_stripped/il2cpp-src
+[487/617    6s] Il2Cpp artifacts/Tiny3D/tiny3d-wasm_stripped/il2cpp-src
+*** Bee build success (15.76 seconds), 11 items updated, 617 evaluated
