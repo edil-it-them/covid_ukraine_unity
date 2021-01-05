@@ -1,43 +1,203 @@
-[             ] Require frontend run.  tundra_tiny3d-asmjs_ejp.dag no longer valid. FileSignature timestamp changed: settings/tiny3d-asmjs.json
-*** buildprogram build success (0.07 seconds), 0 items updated, 13 evaluated
-[       4s] Executed build program. Created build graph with 775 nodes.
-[           0s] Freezing tundra_tiny3d-asmjs_ejp.dag.json into .dag (.dag file didn't exist)
-[ 52/646    0s] WriteResponseFile artifacts/rsp/3945572376480386736.rsp
-[ 53/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
-[ 54/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.entityheader
-[ 73/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
-[ 74/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.conversionlog
-[ 75/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Data/catalog.bin
-[ 90/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
-[152/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Data/fcf2d53d97beffdc622e9afbfb865a50
-[251/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Data/fbbc85a12a28763be3c98da38c27b701
-[382/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.0.entities
-[497/646    1s] Csc artifacts/Tiny3D.dll/tiny3d-asmjs/Tiny3D.dll (+2 others)
-E:\Data_Science\Texty.org.ua\Covid_vis\Project_tiny\ProjectTinySamples\Tiny3D\Assets\Scripts\Systems\SpawnerSystem.cs(14,54): warning CS0169: ���� "SpawnerSystem.ei_ECB" ������� �� �ᯮ������.
-E:\Data_Science\Texty.org.ua\Covid_vis\Project_tiny\ProjectTinySamples\Tiny3D\Assets\Scripts\Systems\UpdateCameraFollow.cs(19,24): warning CS0169: ���� "UpdateCameraFollow.DefaultCameraPosition" ������� �� �ᯮ������.
-E:\Data_Science\Texty.org.ua\Covid_vis\Project_tiny\ProjectTinySamples\Tiny3D\Assets\Scripts\Systems\UpdateCameraFollow.cs(20,28): warning CS0169: ���� "UpdateCameraFollow.DefaultCameraRot" ������� �� �ᯮ������.
-E:\Data_Science\Texty.org.ua\Covid_vis\Project_tiny\ProjectTinySamples\Tiny3D\Assets\Scripts\Systems\SpawnerSystem.cs(15,52): warning CS0169: ���� "SpawnerSystem.ecb" ������� �� �ᯮ������.
-[498/646    1s] ILPostProcessorRunner artifacts/Tiny3D/tiny3d-asmjs/post_ilprocessing/Tiny3D.dll (+pdb)
-[499/646    3s] TypeRegGen artifacts/Tiny3D/tiny3d-asmjs/post_typereg/Tiny3D.dll (+72 others)
-[500/646    5s] UnityLinker artifacts/Tiny3D/tiny3d-asmjs_stripped/Tiny3D.dll (+72 others)
-[BUSY       6s] Il2Cpp artifacts/Tiny3D/tiny3d-asmjs_stripped/il2cpp-src
-[501/646    7s] Il2Cpp artifacts/Tiny3D/tiny3d-asmjs_stripped/il2cpp-src
-[638/646    0s] C_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/2evj/TinyMethods.o
-[639/646    3s] C_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/2evj/Unity.Mathematics.o
-[BUSY       9s] C_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/2evj/Tiny3D.o
-[BUSY      19s] C_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/2evj/Tiny3D.o
-[BUSY      29s] C_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/2evj/Tiny3D.o
-[BUSY      39s] C_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/2evj/Tiny3D.o
-[BUSY      49s] C_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/2evj/Tiny3D.o
-[640/646   49s] C_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/2evj/Tiny3D.o
-[BUSY       6s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/Tiny3D.html (+mem,js)
-[BUSY      16s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/Tiny3D.html (+mem,js)
-[BUSY      26s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/Tiny3D.html (+mem,js)
-[BUSY      36s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/Tiny3D.html (+mem,js)
-[BUSY      46s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/Tiny3D.html (+mem,js)
-[BUSY      56s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/Tiny3D.html (+mem,js)
-[BUSY      66s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/Tiny3D.html (+mem,js)
-[641/646   68s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs/Tiny3D.html (+mem,js)
+[             ] Require frontend run.  tundra_tiny3d-wasm_ehs.dag no longer valid. FileSignature timestamp changed: ../../Assets/Scripts/Tiny3D.asmdef
+*** buildprogram build success (0.08 seconds), 0 items updated, 13 evaluated
+[       4s] Executed build program. Created build graph with 782 nodes.
+[           0s] Freezing tundra_tiny3d-wasm_ehs.dag.json into .dag (.dag file didn't exist)
+[           0s] Delete 52 artifact files that are no longer in use. (like artifacts\Unity.2D.Entities.Physics.dll\tiny3d-wasm\Unity.2D.Entities.Physics.ref.dll)
+[ 58/653    0s] WriteResponseFile artifacts/rsp/15133277902998191969.rsp
+[ 76/653    0s] CopyTool ../../Builds/tiny3d-wasm/Data/catalog.bin
+[ 83/653    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.conversionlog
+[ 99/653    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
+[103/653    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.entityheader
+[111/653    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.0.entities
+[136/653    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
+[151/653    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
+[494/653    1s] Csc artifacts/Tiny3D.dll/tiny3d-wasm/Tiny3D.dll (+2 others)
+E:\Data_Science\Texty.org.ua\Covid_vis\Project_tiny\ProjectTinySamples\Tiny3D\Assets\Scripts\Systems\UpdateCameraFollow.cs(16,28): warning CS0169: ���� "UpdateCameraFollow.DefaultCameraRot" ������� �� �ᯮ������.
+E:\Data_Science\Texty.org.ua\Covid_vis\Project_tiny\ProjectTinySamples\Tiny3D\Assets\Scripts\Systems\UpdateCameraFollow.cs(15,24): warning CS0169: ���� "UpdateCameraFollow.DefaultCameraPosition" ������� �� �ᯮ������.
+[495/653    2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/z6vx/xxhash.o
+In file included from E:/Data_Science/Texty.org.ua/Covid_vis/Project_tiny/ProjectTinySamples/Tiny3D/Library/DotsRuntimeBuild/artifacts/Stevedore/il2cpp_a51d/external/xxHash/xxhash.c:1021:
+E:\Data_Science\Texty.org.ua\Covid_vis\Project_tiny\ProjectTinySamples\Tiny3D\Library\DotsRuntimeBuild\artifacts\Stevedore\il2cpp_a51d\external\xxHash\xxh3.h:550:13: warning: loop not unrolled: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+static void XXH3_accumulate(U64* acc, const void* restrict data, const U32* restrict key, size_t nbStripes)
+            ^
+1 warning generated.
+[496/653    1s] ILPostProcessorRunner artifacts/Tiny3D/tiny3d-wasm/post_ilprocessing/Tiny3D.dll (+pdb)
+[497/653    3s] TypeRegGen artifacts/Tiny3D/tiny3d-wasm/post_typereg/Tiny3D.dll (+68 others)
+[498/653    5s] UnityLinker artifacts/Tiny3D/tiny3d-wasm_stripped/Tiny3D.dll (+68 others)
+[BUSY       6s] Il2Cpp artifacts/Tiny3D/tiny3d-wasm_stripped/il2cpp-src
+[499/653    8s] Il2Cpp artifacts/Tiny3D/tiny3d-wasm_stripped/il2cpp-src
+[           0s] Destroying Roslyn Shared Compiler Server
+*** Bee requires additional run (22.25 seconds), 14 items updated, 653 evaluated
+*** buildprogram build success (0.08 seconds), 0 items updated, 13 evaluated
+[       3s] Executed build program. Created build graph with 760 nodes.
+[           0s] Freezing tundra_tiny3d-wasm_ehs.dag.json into .dag (Timestamp of .json > .dag)
+[           0s] Delete 33 artifact files that are no longer in use. (like artifacts\Tiny3D\tiny3d-wasm\emh2\Unity.Tiny.RendererExtras_StaticConstructors.o)
+[116/631    0s] WriteResponseFile artifacts/rsp/15133277902998191969.rsp
+[495/631    2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/driver.o
+[496/631    3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods14.o
+[497/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods.o
+[498/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods1.o
+[499/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods10.o
+[500/631    4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods2.o
+[501/631    7s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods11.o
+[502/631    7s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods12.o
+[503/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods3.o
+[504/631   10s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods13.o
+[505/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods6.o
+[506/631    7s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods5.o
+[507/631    8s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods4.o
+[508/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods7.o
+[509/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods8.o
+[510/631    7s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/GenericMethods9.o
+[511/631    7s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics.o
+[512/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics10.o
+[513/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics11.o
+[514/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics12.o
+[515/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics14.o
+[516/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics13.o
+[517/631    9s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics1.o
+[518/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics15.o
+[519/631    3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics18.o
+[520/631    3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics5.o
+[521/631    8s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics16.o
+[522/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics4.o
+[523/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics17.o
+[524/631    3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics6.o
+[525/631    3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics7.o
+[526/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics3.o
+[527/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics_StaticConstructors.o
+[528/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions.o
+[529/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions1.o
+[530/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions10.o
+[531/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions11.o
+[532/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions13.o
+[533/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions12.o
+[534/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions14.o
+[535/631    4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics8.o
+[536/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions16.o
+[537/631    2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions15.o
+[538/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions2.o
+[539/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics9.o
+[540/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions17.o
+[541/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions18.o
+[542/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions3.o
+[543/631   11s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Generics2.o
+[544/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions4.o
+[545/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions5.o
+[546/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions7.o
+[547/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions6.o
+[548/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions9.o
+[549/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Il2CppGenericComDefinitions8.o
+[550/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/ModuleInitializers.o
+[551/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/mscorlib_StaticConstructors.o
+[552/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/netstandard.o
+[553/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/StaticConstructors.o
+[554/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/StaticInitialization.o
+[555/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/StringLiterals.o
+[556/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D_StaticConstructors.o
+[557/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/TinyMethods.o
+[558/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Burst.o
+[559/631    4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/mscorlib.o
+[560/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Collections.LowLevel.ILSupport.o
+[561/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Collections_StaticConstructors.o
+[562/631    4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D1.o
+[563/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Entities.Runtime.o
+[564/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Entities.Runtime_StaticConstructors.o
+[565/631    4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/TinyTypes.o
+[566/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Entities_StaticConstructors.o
+[567/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Jobs.o
+[568/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.LowLevel.o
+[569/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Entities.o
+[570/631    7s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Collections.o
+[571/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Mathematics_StaticConstructors.o
+[572/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Mathematics.Extensions.o
+[573/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Entities2.o
+[574/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Entities1.o
+[575/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Physics4.o
+[576/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Entities3.o
+[577/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Mathematics.o
+[578/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Physics_StaticConstructors.o
+[579/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Platforms.Common.o
+[580/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Platforms.RunLoop.o
+[581/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Properties.o
+[582/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Physics.o
+[583/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Properties.Reflection.o
+[584/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Physics2.o
+[585/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Runtime.EntryPoint_StaticConstructors.o
+[586/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Runtime.EntryPoint.o
+[587/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Physics1.o
+[588/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Scenes_StaticConstructors.o
+[589/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Physics3.o
+[590/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Serialization.o
+[591/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Burst.o
+[592/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Core_StaticConstructors.o
+[593/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Core.o
+[594/631    3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Scenes.o
+[595/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Image2D.o
+[596/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Image2D.Web.o
+[597/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Image2D.Web_StaticConstructors.o
+[598/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Image2D_StaticConstructors.o
+[599/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Input.o
+[600/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Input.Web_StaticConstructors.o
+[601/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Input_StaticConstructors.o
+[602/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Input.Web.o
+[603/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.IO.o
+[604/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Rendering.Native_StaticConstructors.o
+[605/631    4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Rendering.Native2.o
+[606/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Rendering.o
+[607/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Rendering.Native.o
+[608/631    3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Rendering_StaticConstructors.o
+[609/631    5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Rendering1.o
+[610/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Text.Native_StaticConstructors.o
+[611/631    6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Rendering.Native1.o
+[612/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Text_StaticConstructors.o
+[613/631    2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Text.o
+[614/631    2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Text.Native.o
+[615/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.UnityInstance_StaticConstructors.o
+[616/631    2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.UnityInstance.o
+[617/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Web_StaticConstructors.o
+[618/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Web.o
+[619/631    7s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Tiny.Rendering2.o
+[620/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Transforms_StaticConstructors.o
+[621/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.ZeroJobs_StaticConstructors.o
+[622/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/UnsafeUtility.o
+[623/631    1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.ZeroJobs.o
+[624/631    4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Unity.Transforms.o
+[BUSY      36s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY      46s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY      56s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY      66s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY      76s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY      86s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY      96s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     106s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     116s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     126s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     136s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     146s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     156s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     166s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     176s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     186s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     196s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     206s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     216s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     226s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     236s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     246s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     256s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     266s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     276s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     286s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     296s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     306s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     316s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     326s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     336s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY     346s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[625/631   354s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/emh2/Tiny3D.o
+[BUSY       6s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/Tiny3D.html (+wasm,js)
+[BUSY      16s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/Tiny3D.html (+wasm,js)
+[626/631   25s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/Tiny3D.html (+wasm,js)
 emcc:WARNING: --llvm-lto ignored when using llvm backend
 wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11char_traitsIcEEE7seekposENS_4fposI11__mbstate_tEEj
 >>> defined as () -> void in E:\\Data_Science\\Texty.org.ua\\Covid_vis\\Project_tiny\\ProjectTinySamples\\Tiny3D\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.a(ios.o)
@@ -45,8 +205,7 @@ wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11
 wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11char_traitsIcEEE7seekoffExNS_8ios_base7seekdirEj
 >>> defined as () -> void in E:\\Data_Science\\Texty.org.ua\\Covid_vis\\Project_tiny\\ProjectTinySamples\\Tiny3D\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.a(ios.o)
 >>> defined as (i32, i32, i64, i32, i32) -> void in lto.tmp
-[642/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Tiny3D.mem
-[643/646    3s] CopyTool ../../Builds/tiny3d-asmjs/Tiny3D.js
-[644/646    0s] CopyTool ../../Builds/tiny3d-asmjs/Tiny3D.html
-[           0s] Destroying Roslyn Shared Compiler Server
-*** Bee build success (141.33 seconds - 0:02:21), 22 items updated, 646 evaluated
+[627/631    0s] CopyTool ../../Builds/tiny3d-wasm/Tiny3D.wasm
+[628/631    0s] CopyTool ../../Builds/tiny3d-wasm/Tiny3D.js
+[629/631    0s] CopyTool ../../Builds/tiny3d-wasm/Tiny3D.html
+*** Bee build success (411.61 seconds - 0:06:51), 136 items updated, 631 evaluated
