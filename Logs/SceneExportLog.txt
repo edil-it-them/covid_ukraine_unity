@@ -816,6 +816,7 @@
 0x6935fea3679cfb79 -    7581245525519563641 - UnityEngine.Flare
 0x693b5fc9b5d391ff -    7582759717551968767 - UnityEditor.OffMeshLinkInspector
 0x6954234c36dd16e1 -    7589730082271074017 - UnityEditor.UnityMainToolbar
+0x6965c135aebba040 -    7594688782939168832 - Tiny3DMove.OrbTagRotate
 0x696da32d02ef9ad4 -    7596907560162007764 - UnityEditorInternal.AnimationClipSelectionItem
 0x698ab92dfc17accd -    7605094527922580685 - Unity.Tiny.DisplayInfo
 0x699fdcb4800d92f0 -    7611044563080024816 - Unity.Tiny.Rendering.RenderNodeRef
@@ -832,6 +833,7 @@
 0x6b54e098cc0d7396 -    7734053406965068694 - UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 0x6b6d4d227223cb89 -    7740928144858925961 - UnityEngine.PolygonCollider2D
 0x6ba1a37dfef7efa6 -    7755659794852605862 - UnityEditor.VFX.VFXSpawnerConstantRate
+0x6c2c289c9113c5e7 -    7794649707985487335 - Tiny3DMove.OrbTagRotateAuthoring
 0x6c2cda2e1f7fdbe2 -    7794844946703309794 - UnityEditor.Graphs.AnimationBlendTree.Graph
 0x6c309c87ddef5cd3 -    7795903062336298195 - UnityEditor.Graphs.Graph
 0x6c38451cb9291822 -    7798058744459892770 - UnityEngine.Timeline.AudioPlayableAsset
@@ -2816,6 +2818,7 @@
 0x6935fea3679cfb79 -    7581245525519563641 - UnityEngine.Flare
 0x693b5fc9b5d391ff -    7582759717551968767 - UnityEditor.OffMeshLinkInspector
 0x6954234c36dd16e1 -    7589730082271074017 - UnityEditor.UnityMainToolbar
+0x6965c135aebba040 -    7594688782939168832 - Tiny3DMove.OrbTagRotate
 0x696da32d02ef9ad4 -    7596907560162007764 - UnityEditorInternal.AnimationClipSelectionItem
 0x698ab92dfc17accd -    7605094527922580685 - Unity.Tiny.DisplayInfo
 0x699fdcb4800d92f0 -    7611044563080024816 - Unity.Tiny.Rendering.RenderNodeRef
@@ -2832,6 +2835,7 @@
 0x6b54e098cc0d7396 -    7734053406965068694 - UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 0x6b6d4d227223cb89 -    7740928144858925961 - UnityEngine.PolygonCollider2D
 0x6ba1a37dfef7efa6 -    7755659794852605862 - UnityEditor.VFX.VFXSpawnerConstantRate
+0x6c2c289c9113c5e7 -    7794649707985487335 - Tiny3DMove.OrbTagRotateAuthoring
 0x6c2cda2e1f7fdbe2 -    7794844946703309794 - UnityEditor.Graphs.AnimationBlendTree.Graph
 0x6c309c87ddef5cd3 -    7795903062336298195 - UnityEditor.Graphs.Graph
 0x6c38451cb9291822 -    7798058744459892770 - UnityEngine.Timeline.AudioPlayableAsset
