@@ -1,8 +1,5 @@
-[ 94/649    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.entityheader
-[ 95/649    0s] CopyTool ../../Builds/tiny3d-wasm/Data/catalog.bin
-[101/649    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
-[117/649    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.conversionlog
-[150/649    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
-[152/649    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
-[309/649    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/1b436f617d6d3bb49aba65ff9f2581c7.0.entities
-*** Bee build success (0.31 seconds), 7 items updated, 649 evaluated
+[388/652    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
+[395/652    0s] CopyTool ../../Builds/tiny3d-wasm/Data/catalog.bin
+[415/652    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
+[422/652    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
+*** Bee build success (0.31 seconds), 4 items updated, 652 evaluated
