@@ -1,16 +1,16 @@
 [             ] Require frontend run.  tundra_tiny3d-wasm_ehs.dag no longer valid. FileSignature timestamp changed: ../../Assets/CustomWebTemplate/tiny_shell.html
-*** buildprogram build success (0.08 seconds), 0 items updated, 13 evaluated
+*** buildprogram build success (0.09 seconds), 0 items updated, 13 evaluated
 [       4s] Executed build program. Created build graph with 786 nodes.
 [           0s] Freezing tundra_tiny3d-wasm_ehs.dag.json into .dag (.dag file didn't exist)
-[279/657    0s] CopyTool ../../Builds/tiny3d-wasm/Data/catalog.bin
-[369/657    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
-[390/657    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
-[415/657    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
+[109/657    0s] CopyTool ../../Builds/tiny3d-wasm/Data/catalog.bin
+[123/657    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
+[125/657    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
+[222/657    0s] CopyTool ../../Builds/tiny3d-wasm/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
 [651/657    0s] Package Shell File Tiny3D/tiny3d-wasm/WebTemplate/tiny_shell.html
 E:\Data_Science\Texty.org.ua\Covid_vis\Project_tiny\ProjectTinySamples\Tiny3D\Library\DotsRuntimeBuild\artifacts\Stevedore\node-win-x64\node.exe,E:\Data_Science\Texty.org.ua\Covid_vis\Project_tiny\ProjectTinySamples\Tiny3D\Library\PackageCache\com.unity.dots.runtime@0.31.0-preview.24\LowLevelSupport~\WebSupport\package_shell_file.js,--outputHtml,Tiny3D/tiny3d-wasm/WebTemplate/tiny_shell.html,--inputShellHtml,E:/Data_Science/Texty.org.ua/Covid_vis/Project_tiny/ProjectTinySamples/Tiny3D/Assets/CustomWebTemplate/tiny_shell.html,--inputShellJs,E:/Data_Science/Texty.org.ua/Covid_vis/Project_tiny/ProjectTinySamples/Tiny3D/Library/PackageCache/com.unity.dots.runtime@0.31.0-preview.24/LowLevelSupport~/WebSupport/tiny_shell.js
 [BUSY       6s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/Tiny3D.html (+wasm,js)
 [BUSY      16s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/Tiny3D.html (+wasm,js)
-[652/657   25s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/Tiny3D.html (+wasm,js)
+[652/657   23s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm/Tiny3D.html (+wasm,js)
 emcc:WARNING: --llvm-lto ignored when using llvm backend
 wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11char_traitsIcEEE7seekposENS_4fposI11__mbstate_tEEj
 >>> defined as () -> void in E:\\Data_Science\\Texty.org.ua\\Covid_vis\\Project_tiny\\ProjectTinySamples\\Tiny3D\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.a(ios.o)
@@ -21,4 +21,4 @@ wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11
 [653/657    0s] CopyTool ../../Builds/tiny3d-wasm/Tiny3D.wasm
 [654/657    0s] CopyTool ../../Builds/tiny3d-wasm/Tiny3D.js
 [655/657    0s] CopyTool ../../Builds/tiny3d-wasm/Tiny3D.html
-*** Bee build success (26.12 seconds), 9 items updated, 657 evaluated
+*** Bee build success (23.62 seconds), 9 items updated, 657 evaluated
